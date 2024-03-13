@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/source.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Coding screen";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Food Delivery App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Engineered a MongoDB and ReactJS-based food delivery app. Implemented RESTful APIs with Express.js for front-end to back-end communication.",
+    url: "https://github.com/Arijit-Char/Portfolio-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Mba Chaiwala Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Designed a fully animated React Mba Chaiwala website with custom components using React, JavaScript, and Framer Motion for eye-catching animations, enhancing user engagement",
+    url: "https://github.com/Arijit-Char/MbaChaiwala_Clone",
   },
   {
-    title: "My Resume Site",
+    title: "Weather app with Backend",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Utilizes a public API to fetch weather data based on city name or latitude and longitude coordinates, providing users with accurate and up-to-date weather information.",
+    url: "https://github.com/Arijit-Char/WeatherFrontend?tab=readme-ov-file",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Animated Contact Page",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Utilizes a public API to fetch weather data based on city name or latitude and longitude coordinates, providing users with accurate and up-to-date weather information.",
+    url: "https://github.com/Arijit-Char/Assessli-React-Assignment",
   },
 ];
 
